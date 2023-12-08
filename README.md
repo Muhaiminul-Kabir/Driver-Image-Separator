@@ -18,7 +18,7 @@ The successful implementation of this project aims to contribute significantly t
 ## Challenges & Innovations:
 Addressing challenges related to diverse vehicle orientations, varied lighting conditions, and occlusion scenarios are key aspects. The innovation lies in utilizing segment point analysis and area-based driver identification to precisely isolate the driver within complex vehicle images.
 ## Screenshots
-
+![](github.com/Muhaiminul-Kabir/Driver-Image-Separator/Untitled.png)
 ## Contributor:
 ### **Md. Muhaiminul Kabir**<br>
 Bachelors of Science in Computer Science and Engineering **(Ongoing)**<br>
